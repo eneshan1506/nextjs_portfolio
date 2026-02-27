@@ -54,6 +54,14 @@ export const projects = [
     demoUrl: "#",
     codeUrl: "#",
   },
+   {
+    id: 4,
+    title: "Guess App",
+    description: "Ziyaretci yorum uygulamasi. Nextjs,TS,Blob Storage kullanildi.",
+    tags: ["Next.js", "TS", "Tailwind"],
+    demoUrl: "https://guess-ave1bttmi-enes-hans-projects.vercel.app/",
+    codeUrl: "https://github.com/eneshan1506/guess-app",
+  },
 ];
 
 export const contactInfo = [
